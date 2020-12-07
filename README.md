@@ -7,4 +7,4 @@ Screenshots of Data:
   Overview of Process:
  Team Reflection:
 
-![Early design of box](https://kingsport.instructure.com/groups/3733/files/1475091)
+
