@@ -1,8 +1,8 @@
 # Mission-to-Mars-Documentation
   
-Team Name: Weltraumunternehmen
+Team Name: Weltraumunternehmen (Space Company)
   
-Sensor Payloads Name: das Auge im Weltraum
+Sensor Payloads Name: das Auge im Weltraum (The eye in space)
 
 Summary of solution: 
 
