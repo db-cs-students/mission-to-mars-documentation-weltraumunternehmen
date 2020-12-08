@@ -2,10 +2,10 @@
   
 ## Team Name: Weltraumunternehmen
   * Means "Space Company" 
-* Sensor Payloads Name: das Auge im Weltraum
+### Sensor Payload's Name: das Auge im Weltraum
   * Means "The eye in space"
-* Summary of solution: 
-  * 
+## Summary of solution: 
+
 * Photos of Sensor Payload: 
 ![Prototype](V1-1.JPG)
 ![Prototype](V1-2.JPG)
