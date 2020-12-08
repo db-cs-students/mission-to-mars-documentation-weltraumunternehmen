@@ -7,7 +7,7 @@
 * Summary of solution: 
   * 
 * Photos of Sensor Payload: 
-  * 
+  (/images/V1-1)
 * Screenshots of Data: 
   * 
 * Overview of Process: 
