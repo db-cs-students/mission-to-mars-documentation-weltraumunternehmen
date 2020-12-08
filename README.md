@@ -7,7 +7,7 @@
 * Summary of solution: 
   * 
 * Photos of Sensor Payload: 
-  ![Prototype](/V1-1.HEIC)
+![Prototype](V1-1.HEIC)
 * Screenshots of Data: 
   * 
 * Overview of Process: 
