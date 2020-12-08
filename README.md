@@ -1,6 +1,6 @@
 # Mission-to-Mars-Documentation
   
-* Team Name: Weltraumunternehmen
+## Team Name: Weltraumunternehmen
   * Means "Space Company" 
 * Sensor Payloads Name: das Auge im Weltraum
   * Means "The eye in space"
