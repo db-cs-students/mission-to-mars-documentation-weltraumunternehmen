@@ -15,6 +15,8 @@ Our solution
 * Overview of Process: 
 ![Prototype](V1-1.JPG)
 ![Prototype](V1-2.JPG)
+![Prototype](Objekticus.STL)
+![Final](Objekticus (1).STL)
 * Team Reflection: 
   * 
 
