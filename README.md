@@ -11,7 +11,7 @@ Our solution
 ![Final](V2-2.JPG)
 ![Final](V2-3.JPG)
 * Screenshots of Data: 
-![One](Screen Shot 2020-12-14 at 7.39.41 AM.png)
+![One](SS1.png)
 * Overview of Process: 
 ![Prototype](V1-1.JPG)
 ![Prototype](V1-2.JPG)
