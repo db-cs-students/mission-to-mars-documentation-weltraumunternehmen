@@ -19,5 +19,5 @@ Our solution
 ![Final](Objekticus(1).STL)
 * Team Reflection: 
   * I hate Mars now.
-  * I don't know where the other two were for over half the project. Thus, I've done nearly everything but the code. As of 12/14, I'm *still* the only one who's made any attempt to contact *anyone* using the discussion boards.
+  * I don't know where the other two were for over half the project. Thus, I've done nearly everything but the code. As of 12/14, I'm still the only one who's made any attempt to contact anyone using the discussion boards.
 
